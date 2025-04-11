@@ -1,5 +1,5 @@
 # Estudos Git
- Estudos de JS com html e CSS e Github
+ Estudos Got e Github
 
  Aprendendo git Hub
 
